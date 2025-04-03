@@ -1,0 +1,1 @@
+# -AC-operated-output-device-bulb-is-controlled-by-using-DC-operated-relay.
